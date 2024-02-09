@@ -1,0 +1,639 @@
+{
+    "nearvy": [
+        {
+            "id": 101,
+            "title": "Cevichería Aji Limo",
+            "description": "Reconocido por el Restaurante Don Juan como el mejor ceviche al paso de Chiclayo, este premio destaca las deliciosas propuestas de Aji Limo, consolidándola como una elección destacada en la escena gastronómica local.",
+            "location": "https://maps.app.goo.gl/fjtVxmd9PUxpp5gm9",
+            "image": "https://i.ibb.co/mcdhT62/aji-limo.png ",
+            "district": "Chiclayo",
+            "province": "Chiclayo",
+            "carOrWalk": 1,
+            "time": "2 min"
+        },
+        {
+            "id": 102,
+            "title": "Cevichería David",
+            "description": "Destacable ceviche al paso, para disfrutar.",
+            "location": "https://maps.app.goo.gl/7FyjK6wzRXnQpUMJA?g_st=ic",
+            "image": "https://i.ibb.co/SRmWFrY/Captura-de-pantalla-2024-01-19-173653.png",
+            "district": "Chiclayo",
+            "province": "Chiclayo",
+            "carOrWalk": 1,
+            "time": "2 min"
+        },
+        {
+            "id": 103,
+            "title": "El Pelao - Cevichería",
+            "description": "Destacable ceviche al paso, para disfrutar.",
+            "location": "https://maps.app.goo.gl/3etprcLmCZSmHKkz8?g_st=ic",
+            "image": "https://i.ibb.co/bNhdYc8/pelao.png",
+            "district": "Chiclayo",
+            "province": "Chiclayo",
+            "carOrWalk": 1,
+            "time": "2 min"
+        },
+        {
+            "id": 104,
+            "title": "Cevichería Zumito",
+            "description": "Destacable ceviche al paso, para disfrutar.",
+            "location": "https://maps.app.goo.gl/jef651hL2R3xYY3m7?g_st=ic",
+            "image": "https://i.ibb.co/vxbvQy4/zumito.png",
+            "district": "Chiclayo",
+            "province": "Chiclayo",
+            "carOrWalk": 2,
+            "time": "3 min"
+        },
+        {
+            "id": 105,
+            "title": "Restaurant BRISAMAR'S mar y tierra",
+            "description": "Establecimiento con un variado menú que incluye almuerzos, pescados, mariscos, parrillas, anticuchos y más opciones para satisfacer los gustos de los clientes.",
+            "location": "https://maps.app.goo.gl/821ePbYoQDK9X47VA?g_st=ic",
+            "image": "https://i.ibb.co/vhRtfST/birsamars.png",
+            "district": "Chiclayo",
+            "province": "Chiclayo",
+            "carOrWalk": 1,
+            "time": "1 min"
+        },
+        {
+            "id": 106,
+            "title": "Restaurant Delicias y Sabores (Desayunos, almuerzos)",
+            "description": "Aquí encontrarás variedades de desaunos, almuerzos y platos a la carta.",
+            "location": "https://maps.app.goo.gl/NgXMiTxoT7M3XZFa9?g_st=ic",
+            "image": "https://i.ibb.co/vszsHg4/deliciassabores.png",
+            "district": "Chiclayo",
+            "province": "Chiclayo",
+            "carOrWalk": 1,
+            "time": "3 min"
+        },
+        {
+            "id": 107,
+            "title": "Parrillas Mr. Wences (Noches)",
+            "description": "Local nuevo donde encontrarás parrillas, etc. A una puerta de BRISAMAR'S mar y tierra. Abierto de noche",
+            "location": "https://maps.app.goo.gl/En93CLUqRpHG5xwV8",
+            "image": "https://i.ibb.co/qkgktDR/Imagen-de-Whats-App-2024-01-31-a-las-17-13-41-fe7d524f.jpg",
+            "district": "Chiclayo",
+            "province": "Chiclayo",
+            "carOrWalk": 1,
+            "time": "1 min"
+        },
+        {
+            "id": 108,
+            "title": "Botica Las Brisas",
+            "description": "Encontrarás todo tipo de medicamentos, ubicado en el centro de las Brisas",
+            "location": "https://maps.app.goo.gl/okRPHW6abHEdEunbA?g_st=ic",
+            "image": "https://i.ibb.co/W2ftJsC/Captura-de-pantalla-2024-01-19-181757.png",
+            "district": "Chiclayo",
+            "province": "Chiclayo",
+            "carOrWalk": 2,
+            "time": "5 min"
+        },
+        {
+            "id": 109,
+            "title": "Mercado Sol de Oro - Las Brisas",
+            "description": "Este mercado se ubica a pocos minutos del alojamiento, dónde encontrarás de todo.",
+            "location": "https://maps.app.goo.gl/R62T8A6gyzT4KZ949?g_st=ic",
+            "image": "https://i.ibb.co/7z8XRsK/mercado-sol.png",
+            "district": "Chiclayo",
+            "province": "Chiclayo",
+            "carOrWalk": 2,
+            "time": "2 min"
+        }
+    ],
+    "places": [
+        {
+            "id": 111,
+            "type": "Lugares Turísticos",
+            "objects": [
+                {
+                    "id": 1,
+                    "title": "Parque principal de Chiclayo",
+                    "description": "A un costado se encuentra la sede de la municipalidad provincial con su hermosa arquitectura, la impresionante Santa María Catedral y diversos comercios. Este parque es sumamente acogedor, siendo el punto de encuentro tanto para los habitantes de Chiclayo como para los visitantes.",
+                    "location": "https://maps.app.goo.gl/wFYwj1V3BQWtcdjo8?g_st=ic",
+                    "image": "https://as1.ftcdn.net/v2/jpg/03/73/19/16/1000_F_373191651_Br76LLmHwDIPZESiJKu93yukUJVtZn3b.jpg",
+                    "district": "Chiclayo",
+                    "province": "Chiclayo",
+                    "distance": 3.7,
+                    "carOrWalk": 2,
+                    "time": "9 min"
+                },
+                {
+                    "id": 2,
+                    "title": "Plazuela \"Elias Aguirre\"",
+                    "description": "Construida en 1924 en honor al comandante Elías Aguirre, la Plazuela Elías Aguirre es un punto de encuentro para chiclayanos. Este espacio cultural, rodeado de árboles y casas coloniales,  brindando sombra y paisaje para momentos familiares y expresiones culturales.",
+                    "location": "https://maps.app.goo.gl/8g1KDWcgL2tCxPj98?g_st=ic",
+                    "image": "https://live.staticflickr.com/3172/2745405611_3e33dc0007_b.jpg",
+                    "district": "Chiclayo",
+                    "province": "Chiclayo",
+                    "distance": 3.1,
+                    "carOrWalk": 2,
+                    "time": "7 min"
+                },
+                {
+                    "id": 3,
+                    "title": "Santuario Histórico Bosque de Pómac",
+                    "description": "Construida en 1924 en honor al comandante Elías Aguirre, la Plazuela Elías Aguirre es un punto de encuentro para chiclayanos. Este espacio cultural, rodeado de árboles y casas coloniales,  brindando sombra y paisaje para momentos familiares y expresiones culturales.",
+                    "location": "https://maps.app.goo.gl/1hHYFC7CWt7wYZ9t9?g_st=ic",
+                    "image": "https://nassftravel.com/wp-content/uploads/2023/02/bosquePomac.jpg",
+                    "district": "Pítipo",
+                    "province": "Ferreñafe",
+                    "distance": 48.7,
+                    "carOrWalk": 2,
+                    "time": "1 hr 16 min"
+                },
+                {
+                    "id": 4,
+                    "title": "Museo Nacional Sicán",
+                    "description": "Construida en 1924 en honor al comandante Elías Aguirre, la Plazuela Elías Aguirre es un punto de encuentro para chiclayanos. Este espacio cultural, rodeado de árboles y casas coloniales,  brindando sombra y paisaje para momentos familiares y expresiones culturales.",
+                    "location": "https://maps.app.goo.gl/N2fgwYtEstLxAKXM7?g_st=ic",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Museo_Nacional_de_Sic%C3%A1n_-_Fachada.jpg",
+                    "district": "Pítipo",
+                    "province": "Ferreñafe",
+                    "distance": 24.7,
+                    "carOrWalk": 2,
+                    "time": "44 min"
+                },
+                {
+                    "id": 5,
+                    "title": "Complejo Arqueológico Huaca Rajada",
+                    "description": "Construida en 1924 en honor al comandante Elías Aguirre, la Plazuela Elías Aguirre es un punto de encuentro para chiclayanos. Este espacio cultural, rodeado de árboles y casas coloniales,  brindando sombra y paisaje para momentos familiares y expresiones culturales.",
+                    "location": "https://maps.app.goo.gl/RwpDa8Ntnyb9nWoV6?g_st=ic",
+                    "image": "https://d1bvpoagx8hqbg.cloudfront.net/originals/huaca-rajada-se-descubrio-tesoro-d6f095e4382b7cc1ab41dc7d56a0236a.jpg",
+                    "district": "Zaña",
+                    "province": "Chiclayo",
+                    "distance": 33.0,
+                    "carOrWalk": 2,
+                    "time": "50 min"
+                },
+                {
+                    "id": 6,
+                    "title": "Refugio de Vida Silvestre Laquipampa",
+                    "description": "Construida en 1924 en honor al comandante Elías Aguirre, la Plazuela Elías Aguirre es un punto de encuentro para chiclayanos. Este espacio cultural, rodeado de árboles y casas coloniales,  brindando sombra y paisaje para momentos familiares y expresiones culturales.",
+                    "location": "https://maps.app.goo.gl/uHoT1Kqz5x6XZEhB8?g_st=ic",
+                    "image": "https://denomades.s3.us-west-2.amazonaws.com/blog/wp-content/uploads/2020/03/11224732/oso-anteojos.jpg",
+                    "district": "Incahuasi",
+                    "province": "Ferreñafe",
+                    "distance": 81.2,
+                    "carOrWalk": 2,
+                    "time": "2 hr 14 min"
+                },
+                {
+                    "id": 7,
+                    "title": "Las Ruinas de Zaña",
+                    "description": "Construida en 1924 en honor al comandante Elías Aguirre, la Plazuela Elías Aguirre es un punto de encuentro para chiclayanos. Este espacio cultural, rodeado de árboles y casas coloniales,  brindando sombra y paisaje para momentos familiares y expresiones culturales.",
+                    "location": "https://maps.app.goo.gl/9riXSuqdFVEmcQ776?g_st=ic",
+                    "image": "https://blog.uss.edu.pe/wp-content/uploads/2019/04/Arquitectura-1024x523.jpg",
+                    "district": "Zaña",
+                    "province": "Chiclayo",
+                    "distance": 49.3,
+                    "carOrWalk": 2,
+                    "time": "54 min"
+                },
+                {
+                    "id": 8,
+                    "title": "Murales Policromos de Úcupe",
+                    "description": "Construida en 1924 en honor al comandante Elías Aguirre, la Plazuela Elías Aguirre es un punto de encuentro para chiclayanos. Este espacio cultural, rodeado de árboles y casas coloniales,  brindando sombra y paisaje para momentos familiares y expresiones culturales.",
+                    "location": "https://maps.app.goo.gl/y7tQobQNc7oE5qgz8?g_st=ic",
+                    "image": "https://pbs.twimg.com/media/GAS9fmSXYAAZuJ3.jpg",
+                    "district": "Lagunas",
+                    "province": "Chiclayo",
+                    "distance": 49.5,
+                    "carOrWalk": 2,
+                    "time": "1 hr"
+                },
+                {
+                    "id": 9,
+                    "title": "Jagueyes de Mayascón",
+                    "description": "Construida en 1924 en honor al comandante Elías Aguirre, la Plazuela Elías Aguirre es un punto de encuentro para chiclayanos. Este espacio cultural, rodeado de árboles y casas coloniales,  brindando sombra y paisaje para momentos familiares y expresiones culturales.",
+                    "location": "https://maps.app.goo.gl/vjLBtmzwKGkbGy6C9?g_st=ic",
+                    "image": "https://mochileaperu.com/wp-content/uploads/2020/03/60787782_465753400632746_3355153809398562816_o.jpg",
+                    "district": "Pítipo",
+                    "province": "Ferreñafe",
+                    "distance": 68.2,
+                    "carOrWalk": 2,
+                    "time": "1 hr 41 min"
+                },
+                {
+                    "id": 10,
+                    "title": "Reservorio de Tinajones",
+                    "description": "Construida en 1924 en honor al comandante Elías Aguirre, la Plazuela Elías Aguirre es un punto de encuentro para chiclayanos. Este espacio cultural, rodeado de árboles y casas coloniales,  brindando sombra y paisaje para momentos familiares y expresiones culturales.",
+                    "location": "https://maps.app.goo.gl/eTsBSD8NUTQRAHgR7?g_st=ic",
+                    "image": "https://e.rpp-noticias.io/large/2014/02/13/1303887.jpg",
+                    "district": "Chongoyape",
+                    "province": "Chiclayo",
+                    "distance": 70.1,
+                    "carOrWalk": 2,
+                    "time": "1 hr 46 min"
+                },
+                {
+                    "id": 11,
+                    "title": " Reserva Ecológica Chaparri",
+                    "description": "Construida en 1924 en honor al comandante Elías Aguirre, la Plazuela Elías Aguirre es un punto de encuentro para chiclayanos. Este espacio cultural, rodeado de árboles y casas coloniales,  brindando sombra y paisaje para momentos familiares y expresiones culturales.",
+                    "location": "https://maps.app.goo.gl/1KwVdeXBUAepC6Xq9?g_st=ic",
+                    "image": "https://rutasviajesperu.com/wp-content/uploads/2019/06/reserva-ecologica-chaparri-chiclayo.jpg",
+                    "district": "Chongoyape",
+                    "province": "Chiclayo",
+                    "distance": 63.0,
+                    "carOrWalk": 2,
+                    "time": "1 hr 32 min"
+                },
+                {
+                    "id": 12,
+                    "title": "Zoocriadero de Avestruces",
+                    "description": "Construida en 1924 en honor al comandante Elías Aguirre, la Plazuela Elías Aguirre es un punto de encuentro para chiclayanos. Este espacio cultural, rodeado de árboles y casas coloniales,  brindando sombra y paisaje para momentos familiares y expresiones culturales.",
+                    "location": "https://maps.app.goo.gl/yikwvwoj8zQjLDdY6?g_st=ic",
+                    "image": "https://chiclayoperu.net/uploads/large/zoo-criadero-avestruces-pimentel.jpg",
+                    "district": "Pimentel",
+                    "province": "Chiclayo",
+                    "distance": 12.4 ,
+                    "carOrWalk": 2,
+                    "time": "18 min"
+                },
+                {
+                    "id": 13,
+                    "title": "Basílica San Antonio de Padua",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/PZxHyt4FxsZYVEBUA?g_st=ic",
+                    "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/f3/ec/3d/beautiful-facade.jpg",
+                    "district": "Chiclayo",
+                    "province": "Chiclayo",
+                    "distance": 2.9,
+                    "carOrWalk": 2,
+                    "time": "6 min"
+                },
+                {
+                    "id": 14,
+                    "title": "Complejo arqueológico Chotuna Chornancap",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/y3sSjopCAuuXU1Uy5?g_st=ic",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Huaca_en_Chotuna-Chornancap.jpg",
+                    "district": "San José",
+                    "province": "Lambayeque",
+                    "distance": 16.9,
+                    "carOrWalk": 2,
+                    "time": "30 min"
+                },
+                {
+                    "id": 15,
+                    "title": "Complejo arqueológico Ventarrón",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/74fi3TkqahYveJZVA?g_st=ic",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Huaca_Ventarr%C3%B3n_-_Panor%C3%A1mica.jpg",
+                    "district": "Pomalca",
+                    "province": "Chiclayo",
+                    "distance": 17.9,
+                    "carOrWalk": 2,
+                    "time": "33 min"
+                },
+                {
+                    "id": 16,
+                    "title": "Catarata El Espinal",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/ed8NER9vRb4GjW7i6?g_st=ic",
+                    "image": "https://blog.redbus.pe/wp-content/uploads/2020/01/asf.jpg",
+                    "district": "Oyotún",
+                    "province": "Chiclayo",
+                    "distance": 106,
+                    "carOrWalk": 2,
+                    "time": "2 hr 15 min"
+                },
+                {
+                    "id": 17,
+                    "title": "Museo Tumbas Reales de Sipán",
+                    "description": "El Museo Tumbas Reales de Sipán, inaugurado en 2002, es relevante porque exhibe la tumba del Señor de Sipán, descubierta en 1987 por arqueólogos peruanos. Este hallazgo marcó un hito arqueológico al revelar la importancia del único gobernante del antiguo Perú hasta entonces encontrado.",
+                    "location": "https://maps.app.goo.gl/61T4EWkvmnLiN7d88?g_st=ic",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tumbas_Reales_de_Sip%C3%A1n_Museum_02.jpg/2560px-Tumbas_Reales_de_Sip%C3%A1n_Museum_02.jpg",
+                    "district": "Lambayeque",
+                    "province": "Lambayeque",
+                    "distance": 12,
+                    "carOrWalk": 2,
+                    "time": "20 min"
+                },
+                {
+                    "id": 18,
+                    "title": "Museo Arqueológico Nacional Brüning",
+                    "description": "El Museo Tumbas Reales de Sipán, inaugurado en 2002, es relevante porque exhibe la tumba del Señor de Sipán, descubierta en 1987 por arqueólogos peruanos. Este hallazgo marcó un hito arqueológico al revelar la importancia del único gobernante del antiguo Perú hasta entonces encontrado.",
+                    "location": "https://maps.app.goo.gl/u6ScYRAcPezorHH26?g_st=ic",
+                    "image": "https://portal.andina.pe/EDPfotografia/Thumbnail/2013/08/18/000216960W.jpg",
+                    "district": "Lambayeque",
+                    "province": "Lambayeque",
+                    "distance": 12,
+                    "carOrWalk": 2,
+                    "time": "20 min"
+                },
+                {
+                    "id": 19,
+                    "title": "Paseo de las Musas",
+                    "description": "Este encantador paseo exhibe plazas pequeñas con columnas y estatuas blancas, personificando musas de la mitología griega por Celendino Díaz. Ideal para serenos paseos en familia, cuenta con una zona de juegos para los pequeños. Su ubicación central lo convierte en un destino accesible.",
+                    "location": "https://maps.app.goo.gl/DLQE2D7UeZGXJSDz9?g_st=ic",
+                    "image": "https://yourpassperu.com/wp-content/uploads/2020/03/chiclayo-las-musas15.jpg",
+                    "district": "Chiclayo",
+                    "province": "Chiclayo",
+                    "distance": 3.2,
+                    "carOrWalk": 1,
+                    "time": "8 min"
+                },
+                {
+                    "id": 20,
+                    "title": "El Paseo Yortuque",
+                    "description": "Entre Chiclayo y La Victoria, destaca como construcción única. Es el paseo peatonal más extenso en el norte de Perú, posiblemente uno de los más destacados a nivel nacional. Este atractivo se convierte en razón clave para explorar Chiclayo y disfrutar de sus encantadores detalles.",
+                    "location": "https://maps.app.goo.gl/MMr5Jb9ZVtWn9d48A?g_st=ic",
+                    "image": "https://blog.redbus.pe/wp-content/uploads/2018/04/Paseo-Yortuque-Chiclayo.jpg",
+                    "district": "Chiclayo/La Victoria",
+                    "province": "Chiclayo",
+                    "distance": 3.8,
+                    "carOrWalk": 2,
+                    "time": "10 min"
+                },
+                {
+                    "id": 21,
+                    "title": "Monsefú, Ciudad de las Flores",
+                    "description": "Entre Chiclayo y La Victoria, destaca como construcción única. Es el paseo peatonal más extenso en el norte de Perú, posiblemente uno de los más destacados a nivel nacional. Este atractivo se convierte en razón clave para explorar Chiclayo y disfrutar de sus encantadores detalles.",
+                    "location": "https://maps.app.goo.gl/WAwHTYjeTKvWcLSn8?g_st=ic",
+                    "image": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2020/07/13/000692877W.jpg",
+                    "district": "Monsefú",
+                    "province": "Chiclayo",
+                    "distance": 13.6,
+                    "carOrWalk": 2,
+                    "time": "20 min"
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "type": "Playa",
+            "objects": [
+                {
+                    "id": 22,
+                    "title": "Playa Balneario de Pimentel",
+                    "description": "El Balneario de Pimentel, ubicado en el distrito de Pimentel en Chiclayo, Lambayeque, es famoso por su hermosa playa y variedad de actividades. Ideal para el surf y la natación, su muelle facilita la salida y llegada de embarcaciones para alquilar y explorar sus aguas.",
+                    "location": "https://maps.app.goo.gl/tG4ota4nkUgL2gSn8?g_st=ic",
+                    "image": "https://images.myguide-cdn.com/peru/companies/pimentel-beach/large/pimentel-beach-630848.jpg",
+                    "district": "Pimentel",
+                    "province": "Chiclayo",
+                    "distance": 11.8,
+                    "carOrWalk": 2,
+                    "time": "19 min"
+                },
+                {
+                    "id": 23,
+                    "title": "Playa Puerto Eten",
+                    "description": "Puerto Eten, en Lambayeque, es una extensa playa llamada \"Playa de ensueño\". Ofrece un paisaje variado con rocas y amplias áreas de arena. Además, disfruta de un clima fresco, sin lluvias y con vientos moderados, lo que lo convierte en un destino muy atractivo.",
+                    "location": "https://maps.app.goo.gl/Vea8Tb38aDa7a5KfA?g_st=ic",
+                    "image": "https://seturismo.pe/wp-content/uploads/2019/02/playa-puerto-eten-lambayeque.jpg",
+                    "district": "Puerto Eten",
+                    "province": "Chiclayo",
+                    "distance": 18.8,
+                    "carOrWalk": 2,
+                    "time": "29 min"
+                },
+                {
+                    "id": 24,
+                    "title": "Caleta de Santa Rosa",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/Y9LFweaNrKvrVocp8?g_st=ic",
+                    "image": "https://3.bp.blogspot.com/-aet-PWto-fs/UXmAU8HSfoI/AAAAAAAAAJw/X8L-pEfuI0E/s1600/Santa+Rosa+Bote%5B1%5D.jpg",
+                    "district": "Santa Rosa",
+                    "province": "Chiclayo",
+                    "distance": 17.0,
+                    "carOrWalk": 2,
+                    "time": "25 min"
+                },
+                {
+                    "id": 25,
+                    "title": "Caleta de San José",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/rJ2TEokd5WztQzjN7?g_st=ic",
+                    "image": "https://live.staticflickr.com/4058/4253707607_3e71d6e9d7_b.jpg",
+                    "district": "San José",
+                    "province": "Lambayeque",
+                    "distance": 13.5,
+                    "carOrWalk": 2,
+                    "time": "18 min"
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "type": "Mercados",
+            "objects": [
+                {
+                    "id": 26,
+                    "title": "Mercado Modelo",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/3KfuWmHUT6PSXeC48?g_st=ic",
+                    "image": "https://antipode-peru.com/Que-Voir/mercado-modelo-de-chiclayo-v1-1200-800.jpeg",
+                    "district": "Chiclayo",
+                    "province": "Chiclayo",
+                    "distance": 4.2,
+                    "carOrWalk": 2,
+                    "time": "12 min"
+                },
+                {
+                    "id": 27,
+                    "title": "Mercado Central",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/87iiX5FVJzm8CEJN6?g_st=ic",
+                    "image": "https://cdn.www.gob.pe/uploads/document/file/4737485/standard_Foto%20155WKy.JPG",
+                    "district": "Chiclayo",
+                    "province": "Chiclayo",
+                    "distance": 4.2,
+                    "carOrWalk": 2,
+                    "time": "11 min"
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "type": "Universidades",
+            "objects": [
+                {
+                    "id": 28,
+                    "title": "Universidad Nacional Pedro Ruiz Gallo",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/5cYNtmU5kAc84ACi9?g_st=ic",
+                    "image": "https://cdn.www.gob.pe/uploads/document/file/4667181/standard_frontis%201-min.jpg",
+                    "district": "Lambayeque",
+                    "province": "Lambayeque",
+                    "distance": 12,
+                    "carOrWalk": 2,
+                    "time": "19 min"
+                },
+                {
+                    "id": 29,
+                    "title": "Universidad Católica Santo Toribio de Mogrovejo",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/H389D7s3mCDj2dvs6?g_st=ic",
+                    "image": "https://cachimbo.pe/wp-content/uploads/2023/07/1-3.jpg",
+                    "district": "Chiclayo",
+                    "province": "Chiclayo",
+                    "distance": 5.3,
+                    "carOrWalk": 2,
+                    "time": "11 min"
+                },
+                {
+                    "id": 30,
+                    "title": "Universidad Cesar Vallejo",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/HiziwZ6bk926tD697?g_st=ic",
+                    "image": "https://orientacion.universia.edu.pe/imgs2011/imagenes/ucv-chicla-2012_12_05_110028.jpg",
+                    "district": "Pimentel",
+                    "province": "Chiclayo",
+                    "distance": 3.6,
+                    "carOrWalk": 2,
+                    "time": "6 min"
+                },
+                {
+                    "id": 31,
+                    "title": "Universidad Señor de Sipán",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/fA2ANLyhFpjV8xkJA?g_st=ic",
+                    "image": "https://www.uss.edu.pe/uss/document/FileInv/salaprensa/Altissia-La-USS-consolida-la-ense%C3%B1anza-de-idiomas-extranjeros-a-trav%C3%A9s-de-una-de-las-mejores-plataformas-virtuales-del-mundo.jpg",
+                    "district": "Pimentel",
+                    "province": "Chiclayo",
+                    "distance": 3.9,
+                    "carOrWalk": 2,
+                    "time": "7 min"
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "type": "Restarutantes, Fábrica King Kong y Centro de diversiones",
+            "objects": [
+                {
+                    "id": 32,
+                    "title": "Restaurant Casa Sipán",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/Kz5drwWevT5RoCGo9?g_st=ic",
+                    "image": "https://scontent.fcix4-2.fna.fbcdn.net/v/t1.6435-9/65268775_10157393974938659_2699445464465408000_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=fJD3WjcDetoAX_7w-2B&_nc_ht=scontent.fcix4-2.fna&oh=00_AfBO9nE_9HCj3GwHOr1phuqpvb2ixeBpxPsME658zlb-oQ&oe=65E7E842",
+                    "district": "Pucalá",
+                    "province": "Chiclayo",
+                    "distance": 32.7,
+                    "carOrWalk": 2,
+                    "time": "48 min"
+                },
+                {
+                    "id": 33,
+                    "title": "Mall Aventura",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/Ga8XXYRgt1ynBR4MA?g_st=ic",
+                    "image": "https://trome.com/resizer/vIBpGAewLpZHWwySN3iJ3PqRffA=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/QH2PZC3RX5FU7ABHM3UTJMISLI.jpeg",
+                    "district": "Chiclayo",
+                    "province": "Chiclayo",
+                    "distance": 5.0,
+                    "carOrWalk": 2,
+                    "time": "10 min"
+                },
+                {
+                    "id": 34,
+                    "title": "Real Plaza",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/5UHGEWT4J23PMgrf9?g_st=ic",
+                    "image": "https://semanarioexpresion.com/Presentacion/img/noticias/REALPLAZA1199.jpg",
+                    "district": "Chiclayo",
+                    "province": "Chiclayo",
+                    "distance": 4.5,
+                    "carOrWalk": 2,
+                    "time": "11 min"
+                },
+                {
+                    "id": 35,
+                    "title": "Open Plaza",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/oQ1zQiXHG3wu4sFp8?g_st=ic",
+                    "image": "https://live.staticflickr.com/2032/2113008180_341b4e2078_z.jpg",
+                    "district": "Chiclayo",
+                    "province": "Chiclayo",
+                    "distance": 4.3,
+                    "carOrWalk": 2,
+                    "time": "10 min"
+                },
+                {
+                    "id": 36,
+                    "title": "Restaurant Campestre El Mirador",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/2x8J1uYYpmDk9zpr6?g_st=ic",
+                    "image": "https://i.ytimg.com/vi/kqIc6yAoO1A/maxresdefault.jpg",
+                    "district": "Chiclayo",
+                    "province": "Chiclayo",
+                    "distance": 11,
+                    "carOrWalk": 2,
+                    "time": "18 min"
+                },
+                {
+                    "id": 37,
+                    "title": "Las Pirkas",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/HeiPU9bHYk8pTYZo6?g_st=ic",
+                    "image": "https://scontent.fcix4-2.fna.fbcdn.net/v/t39.30808-6/273795723_4997648636924149_7535620201675614858_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=9GQPzgPXB98AX9_bBNT&_nc_ht=scontent.fcix4-2.fna&oh=00_AfC5FNSVAwP7kdggODOnYH_tuM4zeTsvhlQdxwykEzifXg&oe=65C65980",
+                    "district": "Jayanca",
+                    "province": "Lambayeque",
+                    "distance": 46.9,
+                    "carOrWalk": 2,
+                    "time": "1 hr 3min"
+                },
+                {
+                    "id": 38,
+                    "title": "Restaurante Marakos Grill",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/dR2F8NpMNJr6C1sQ7?g_st=ic",
+                    "image": "https://10619-2.s.cdn12.com/rests/original/108_512106182.jpg",
+                    "district": "Pimentel",
+                    "province": "Chiclayo",
+                    "distance": 11.0,
+                    "carOrWalk": 2,
+                    "time": "17 min"
+                },
+                {
+                    "id": 39,
+                    "title": "Parrilladas El Uruguayo",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/yqwVYwUZmyMMyu8Y7?g_st=ic",
+                    "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/30/11/c9/parrilladas-el-uruguayo.jpg",
+                    "district": "Chiclayo",
+                    "province": "Chiclayo",
+                    "distance": 2.5,
+                    "carOrWalk": 2,
+                    "time": "5 min"
+                },
+                {
+                    "id": 40,
+                    "title": "Fábrica de King Kong San Roque",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/wjJEUw8YaBkJbnyY7?g_st=ic",
+                    "image": "https://lh3.googleusercontent.com/p/AF1QipMR2v54IurcLpbXNIZEBxRCnw9ozYQ0CBFIFBSt=s680-w680-h510",
+                    "district": "Lambayeque",
+                    "province": "Lambayeque",
+                    "distance": 11,
+                    "carOrWalk": 2,
+                    "time": "19 min"
+                },
+                {
+                    "id": 41,
+                    "title": "Restaurant El Pacífico",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/iLNKQEjCDukcjvhZA?g_st=ic",
+                    "image": "https://scontent.fcix4-2.fna.fbcdn.net/v/t1.6435-9/185965710_2818882981759816_443946915276465759_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=VBpEVgcEmEYAX8FCKRc&_nc_ht=scontent.fcix4-2.fna&oh=00_AfDOAle2xQ5TqxqADIaalziRn4e3vUoWZKJwML-JwFf-Ug&oe=65E8B63C",
+                    "district": "Lambayeque",
+                    "province": "Lambayeque",
+                    "distance": 11,
+                    "carOrWalk": 2,
+                    "time": "18 min"
+                },
+                {
+                    "id": 42,
+                    "title": "Restaurant Di Limón",
+                    "description": "La Basílica San Antonio de Padua de Chiclayo, o San Antonio de los Padres Descalzos, en Av. Luis Gonzáles con Torres Paz, cerca de la Plaza de Armas. Construida en 1949 por los Padres Franciscanos y la comunidad local, tiene estilo renacentista con entrada modesta y dos torres gemelas.",
+                    "location": "https://maps.app.goo.gl/GZ8X5RztUQmxpwJt7?g_st=ic",
+                    "image": "https://scontent.fcix4-2.fna.fbcdn.net/v/t1.6435-9/81277581_2515533171994673_3840533642682040320_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=Xfxux0vzPjYAX-gnmuk&_nc_ht=scontent.fcix4-2.fna&oh=00_AfAhGPWU4GAEpYSVvTsJv3jKK2KPoS18rK2euOucFEVwEw&oe=65E89BA7",
+                    "district": "Lambayeque",
+                    "province": "Lambayeque",
+                    "distance": 13,
+                    "carOrWalk": 2,
+                    "time": "20 min"
+                }
+            ]
+        }
+    ]
+}
