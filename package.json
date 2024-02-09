@@ -1,12 +1,14 @@
 {
+  "homepage": "https://richand05.github.io/richand05-las-brisas-de-cix-travel",
   "name": "web-las-brisas-de-cix",
   "private": true,
   "version": "0.0.0",
-  "homepage": "",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "ph-pages -d build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
